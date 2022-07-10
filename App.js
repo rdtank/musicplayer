@@ -1,9 +1,14 @@
-import {View, Text} from 'react-native';
 import React from 'react';
-import MusicPlayer from './src/components/MusicPlayer';
+import {View, StatusBar} from 'react-native';
+import MusicPlayer from './src/screen/MusicPlayer';
 
 const App = () => {
-  return <MusicPlayer />;
+  return (
+    <View style={{flex: 1}}>
+      <StatusBar barStyle="light-content" />
+      <MusicPlayer />
+    </View>
+  );
 };
 
 export default App;
