@@ -4,7 +4,11 @@ This Project is created in React-Native. It is working for both iOS and Android 
 
 ## ScreenShots
 
-![Screenshot 1](/src/screenshots/Music%20Player%201.jpg 'Music Player') ![Screenshot 2](/src/screenshots/Music%20Player%202.jpeg 'Music Player') ![Screenshot 3](/src/screenshots/Music%20Player%203.jpg 'Music Player')
+<div>
+<img src="/src/screenshots/Music%20Player%201.jpg" alt="Screenshot 1" width="160">&emsp; &emsp; &emsp;
+<img src="/src/screenshots/Music%20Player%202.jpeg" alt="Screenshot 2" width="160">&emsp; &emsp; &emsp;
+<img src="/src/screenshots/Music%20Player%203.jpg" alt="Screenshot 3" width="160">
+</div>
 
 ## Features
 
